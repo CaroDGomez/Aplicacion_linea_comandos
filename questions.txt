@@ -1,0 +1,3 @@
+¿Cuál es la palabra clave para una clase? - class
+¿Cuál es la palabra clave para un método? - def
+¿Cuál es el lenguaje que estás viendo? - ruby
